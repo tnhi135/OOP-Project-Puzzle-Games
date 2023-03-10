@@ -1,0 +1,5 @@
+﻿  game.cpp
+C:\Users\nnhi\source\repos\OOP_Project\BaiTapLon_Bai_9_Game_1\game.cpp(79,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  mahjong.cpp
+  Generating Code...
+  BaiTapLon_Bai_9_Game_1.vcxproj -> C:\Users\nnhi\source\repos\OOP_Project\x64\Debug\BaiTapLon_Bai_9_Game_1.exe
