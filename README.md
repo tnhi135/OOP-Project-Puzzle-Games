@@ -2,6 +2,9 @@
 
 Write a program with two games: tetris and mahjong.
 
+
+![alt text](Game-Interface-Examples/mahjong.png?raw=true)
+
 Image:
 
 https://androidhdwallpapers.com/totoro-anime-liang-xing-illustration-art/
