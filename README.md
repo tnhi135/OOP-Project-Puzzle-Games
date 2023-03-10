@@ -4,8 +4,8 @@ Write a program with two games: tetris and mahjong.
 
 
 <p float="left">
-  <img src="/Game-Interface-Examples/mahjong.png" width="500" height="300"/>
   <img src="/Game-Interface-Examples/tetris.png" width="500" height="300"/> 
+  <img src="/Game-Interface-Examples/mahjong.png" width="500" height="300"/>
 </p>
 
 Image:
