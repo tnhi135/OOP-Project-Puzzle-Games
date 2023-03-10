@@ -1,4 +1,5 @@
 # OOP-Project-Puzzle-Games
+Project during bachelor's study
 
 Write a program with two games: tetris and mahjong.
 
