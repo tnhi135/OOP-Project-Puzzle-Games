@@ -3,7 +3,10 @@
 Write a program with two games: tetris and mahjong.
 
 
-![alt text](Game-Interface-Examples/mahjong.png?raw=true) ![alt text](Game-Interface-Examples/tetris.png?raw=true)
+<p float="left">
+  <img src="/Game-Interface-Examples/mahjong.png" width="100" />
+  <img src="/Game-Interface-Examples/tetris.png" width="100" /> 
+</p>
 
 Image:
 
