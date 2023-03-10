@@ -3,7 +3,7 @@
 Write a program with two games: tetris and mahjong.
 
 
-![alt text](Game-Interface-Examples/mahjong.png?raw=true)
+![alt text](Game-Interface-Examples/mahjong.png?raw=true) ![alt text](Game-Interface-Examples/tetris.png?raw=true)
 
 Image:
 
